@@ -1,2 +1,3 @@
 # DemoRepo
-This is demo repository
+This is demo repository.
+Shruti Shinde.
